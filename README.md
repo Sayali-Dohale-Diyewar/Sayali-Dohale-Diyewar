@@ -12,9 +12,7 @@
 - 👯 I’m looking to collaborate on **Apartment Management System**
 
 - 🤝 I’m looking for help with **Redis, RabbitMQ Services**
-
-- 👨‍💻 All of my projects are available at 
-
+  
 - 💬 Ask me about **Python, Django, Flask, DRF, SQL**
 
 - 📫 How to reach me **dohalesayali1@gmail.com**
