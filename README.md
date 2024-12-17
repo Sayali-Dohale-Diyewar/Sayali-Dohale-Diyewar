@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Redis, RabbitMQ Services**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/sayali-dohale-2b5668313](www.linkedin.com/in/sayali-dohale-2b5668313)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **Python, Django, Flask, DRF, SQL**
 
